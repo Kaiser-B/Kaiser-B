@@ -21,7 +21,7 @@ Dejo una pequeña lista de mis favoritas.
 |	Lista	| 
 |---|
 |[<img src="https://github.com/Kaiser-B/Kaiser-B/blob/main/img/timmy.jfif" alt="imagen portada canción" width="60px" heigth="60px"/>](https://open.spotify.com/intl-es/track/62feRreeM9ea7i2VHVSKrg) [FREAKS TIMMY TRUMPET](https://open.spotify.com/intl-es/track/62feRreeM9ea7i2VHVSKrg)|
-|[<img src="https://github.com/Kaiser-B/Kaiser-B/blob/main/img/linking park.jfif" alt="imagen portada canción" width="60px" heigth="60px"/>](https://open.spotify.com/intl-es/track/62feRreeM9ea7i2VHVSKrg) [NUMB LINKING PARK](https://open.spotify.com/intl-es/track/2nLtzopw4rPReszdYBJU6h)|
+|[<img src="https://github.com/Kaiser-B/Kaiser-B/blob/main/img/linking park1.jfif" alt="imagen portada canción" width="60px" heigth="60px"/>](https://open.spotify.com/intl-es/track/62feRreeM9ea7i2VHVSKrg) [NUMB LINKING PARK](https://open.spotify.com/intl-es/track/2nLtzopw4rPReszdYBJU6h)|
 |[<img src="https://github.com/Kaiser-B/Kaiser-B/blob/main/img/estopa.jfif" alt="imagen portada canción" width="60px" heigth="60px"/>](https://open.spotify.com/intl-es/track/62feRreeM9ea7i2VHVSKrg) [ESTOPA PASTILLAS PARA DORMIR](https://open.spotify.com/intl-es/track/0CQPWcVvEP0YqJudrQp3Pt)|
 |[<img src="https://github.com/Kaiser-B/Kaiser-B/blob/main/img/rammstein.jfif" alt="imagen portada canción" width="60px" heigth="60px"/>](https://open.spotify.com/intl-es/track/5awDvzxWfd53SSrsRZ8pXO) [RAMMSTEIN DU HAST](https://open.spotify.com/intl-es/track/5awDvzxWfd53SSrsRZ8pXO)|
 
