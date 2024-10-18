@@ -9,11 +9,11 @@ Bienvenido a mi repositorio de Github! Comencé mi camino en informática en 201
 
 ## 🛠️ Herramientas y Tecnologías
 
-![Lista de Logotipos de lenguajes y herramientas de programación](https://skillicons.dev/icons?i=js,html,css,php,ts,sass,mysql,git)
+![Lista de Logotipos de lenguajes y herramientas de programación](https://skillicons.dev/icons?i=js,html,css,php,sass,mysql,git)
 
 ### 🧠 Aprendiendo Actualmente
 
-![Lista de Logotipos de lenguajes y herramientas de programación](https://skillicons.dev/icons?i=angular,astro,java)
+![Lista de Logotipos de lenguajes y herramientas de programación](https://skillicons.dev/icons?i=angular,ts,astro,java)
 
 ## Mis Hobbies
 
